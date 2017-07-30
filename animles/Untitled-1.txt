@@ -1,0 +1,7 @@
+<?php
+require_once ('Dog.php');
+require_once ('IAnimle.php');
+
+$dog = new Dog("wooofff");
+echo $dog;
+
